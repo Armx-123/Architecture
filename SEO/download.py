@@ -70,5 +70,5 @@ async def on_ready():
 
 # Run the bot
 bot.run(os.environ['RYNX'])
-subprocess.run(["python", "unzip.py"], check=True)
+subprocess.run(["python", "SEO/unzip.py"], check=True)
 # os.environ['TOKEN']
