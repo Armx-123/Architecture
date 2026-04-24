@@ -1,1 +1,33 @@
+name: SEO Download Script
 
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+jobs:
+  run-seo-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10' # You can adjust this to your preferred version
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r SEO/requirements.txt
+
+    - name: Install Playwright Browsers
+      run: |
+        # This installs the browser binaries and necessary system libraries
+        pip install playwright
+        playwright install --with-deps
+
+    - name: Run SEO Script
+      run: python SEO/downloady.py
