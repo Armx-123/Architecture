@@ -30,4 +30,4 @@ jobs:
         playwright install --with-deps
 
     - name: Run SEO Script
-      run: python SEO/downloady.py
+      run: python SEO/download.py
