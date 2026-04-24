@@ -3,11 +3,17 @@ name: SEO Download Script
 on:
   push:
     branches: [ "main" ]
-  workflow_dispatch: # Allows you to run this manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   run-seo-script:
     runs-on: ubuntu-latest
+    # Map your secrets to environment variables here
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      RYNX: ${{ secrets.RYNX }}
+      # Add any other secrets your script needs below:
+      # SECRET_NAME: ${{ secrets.SECRET_NAME }}
 
     steps:
     - name: Check out repository
@@ -16,7 +22,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.14.0' # You can adjust this to your preferred version
+        python-version: '3.12' # Note: 3.14 is currently in pre-release/experimental
 
     - name: Install Python dependencies
       run: |
@@ -25,7 +31,6 @@ jobs:
 
     - name: Install Playwright Browsers
       run: |
-        # This installs the browser binaries and necessary system libraries
         pip install playwright
         playwright install --with-deps
 
