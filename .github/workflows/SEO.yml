@@ -36,3 +36,5 @@ jobs:
 
     - name: Run SEO Script
       run: python SEO/download.py
+    - name: Run Main Script
+      run: python main.py
