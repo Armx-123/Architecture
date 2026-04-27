@@ -1,1 +1,27 @@
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 34.706300212s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}
+**Hook Styles:**
+
+1.  **Problem/Solution:**
+    *   Template: "Tired of [problem]? Discover [solution] for [desired outcome]."
+    *   Logical Flow: Identify a common pain point or aspiration of the target audience and immediately offer a compelling solution.
+
+2.  **Benefit-Oriented:**
+    *   Template: "Achieve [desirable benefit] with [product/service/idea]."
+    *   Logical Flow: Directly highlight the key advantage or positive outcome the user will experience.
+
+3.  **Curiosity/Intrigue:**
+    *   Template: "Discover [surprising/unique aspect] of [topic]." or "You won't believe these [number] [topic] ideas!"
+    *   Logical Flow: Spark interest by hinting at something novel, unexpected, or exceptionally comprehensive.
+
+**Call to Action (CTA) Structure:**
+
+1.  **Clear & Direct Command:** Start with a strong verb that tells the user exactly what to do.
+2.  **Benefit/Value Proposition:** Briefly reiterate what they will gain by taking action.
+3.  **Urgency/Scarcity (Optional but effective):** Encourage immediate action if applicable.
+4.  **Location/Method:** Specify where or how they can perform the action.
+
+    *   **Template:** [Action Verb] [Benefit/Value Proposition]. [Urgency/Scarcity - Optional]. Visit/Click/Shop [Location/Method].
+
+    *   **Logical Flow:**
+        *   **Hook:** Grabs attention.
+        *   **Value Proposition/Description:** Briefly explains what is being offered.
+        *   **CTA:** Guides the user to the next step, reinforcing the benefit.

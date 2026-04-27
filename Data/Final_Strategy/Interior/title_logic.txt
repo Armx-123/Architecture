@@ -1,1 +1,21 @@
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 34.320573657s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}
+Here are 5 effective formula structures for Pinterest titles based on the provided data, along with the reasoning for their ranking:
+
+1.  **Number + Noun Phrase + Benefit/Descriptor**
+    *   **Logic:** "12 Minimal Bathroom Ideas for a Clean and Modern Look"
+    *   **Why it ranks:** This structure is highly effective because it immediately quantifies the content (setting expectations for quantity), identifies the core subject (e.g., "Bathroom Ideas"), and then clearly states the user's desired outcome or aesthetic ("Clean and Modern Look"). This offers immediate value and relevance.
+
+2.  **Adjective + Noun Phrase + Benefit/Descriptor**
+    *   **Logic:** "14 Grey Bathroom Ideas for Soft Modern Style With Warm Accents"
+    *   **Why it ranks:** Similar to the first, this structure leads with a descriptive adjective (e.g., "Grey," "Minimal," "Stunning") which appeals to specific tastes or needs. It then clearly states the topic and the benefit or defining characteristic, making it easy for users to find exactly what they're looking for.
+
+3.  **Number + Noun Phrase + Specific Style/Keyword**
+    *   **Logic:** "14 Japandi Living Room Designs for a Minimalist Zen Retreat"
+    *   **Why it ranks:** This is excellent for targeting niche interests. It provides a quantity, specifies the subject, and then uses highly searchable and desirable keywords like "Japandi," "Minimalist," and "Zen Retreat." This attracts users actively searching for those specific styles.
+
+4.  **Adjective + Noun Phrase + Benefit/Action**
+    *   **Logic:** "20 Small Bathroom Ideas That Feel Bigger and Luxurious"
+    *   **Why it ranks:** This structure is powerful because it addresses a common pain point (small spaces) and offers a clear, aspirational benefit ("Feel Bigger and Luxurious"). The verb "Feel" makes the outcome tangible and desirable.
+
+5.  **Adjective + Noun Phrase + Benefit (Focus on Utility/Problem Solving)**
+    *   **Logic:** "10 Galley Kitchen Layout Ideas With Efficient Floor Plans"
+    *   **Why it ranks:** This formula excels at attracting users seeking practical solutions. It identifies the specific type of space/item ("Galley Kitchen Layout Ideas") and then emphasizes the key benefit, which is often functionality and efficiency ("Efficient Floor Plans"). This targets users with a clear problem to solve.
