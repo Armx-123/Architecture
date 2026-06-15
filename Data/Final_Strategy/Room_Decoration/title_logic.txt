@@ -1,1 +1,21 @@
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 9.719794298s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}
+Here are the 5 best 'Formula Structures' for successful Pinterest titles based on the provided data, along with their ranking logic:
+
+1.  **[Number] + [Adjective] + [Room/Item] + [Benefit/Transformation]**
+    *   **Logic:** This structure is highly effective because it's direct, promises quantity and quality ("10 Barn Door Ideas"), and immediately tells the user the outcome or problem solved ("Transform Your Space"). The adjective adds appeal, and the benefit is a strong hook.
+    *   **Why it ranks:** High searchability due to clear keywords, strong promise of value and transformation, and a quantifiable number of ideas make it easy for users to scan and find relevant content.
+
+2.  **[Number] + [Adjective] + [Room/Item] + [Target Audience/Context]**
+    *   **Logic:** This formula targets specific needs or situations by including the audience or context. For example, "10 Best Dorm Organization Ideas You Need to Survive Freshman Year." The "you need to survive" part speaks directly to the user's pain points and desires.
+    *   **Why it ranks:** It's highly relevant and speaks directly to the user's current stage of life or specific challenge, making it feel personalized and urgent. The use of "Best" and specific numbers also appeals to user search behavior.
+
+3.  **[Number] + [Benefit/Transformation] + [Room/Item] + [Specific Feature/Style]**
+    *   **Logic:** This structure leads with the outcome or benefit, followed by the core topic and a specific stylistic element. "10 Pantry Organization Ideas That Make Small Kitchens Feel Bigger" clearly states the benefit first, then the item, and then the specific enhancement.
+    *   **Why it ranks:** Prioritizes the user's desire for a solution or improvement, making it immediately appealing. It's outcome-oriented and promises a tangible result, aligning with what users often search for on Pinterest.
+
+4.  **[Number] + [Adjective] + [Room/Item] + [Unique Element/Intrigue]**
+    *   **Logic:** This structure uses a number and descriptive words but introduces an element of curiosity or uniqueness. Titles like "10 Must-See Weird Coffee Table Ideas" or "10 Fabulous Furniture Painting Ideas to DIY at Home" pique interest.
+    *   **Why it ranks:** The "weird," "fabulous," or "must-see" creates a desire to click and discover something novel or exciting, setting it apart from more generic titles. It taps into the exploration aspect of Pinterest.
+
+5.  **[Number] + [Specific Item/Room] + [Adjective] + [Benefit/Style Focus]**
+    *   **Logic:** Similar to other structures but often focuses on a specific element within a room and highlights its particular benefit or style. Examples include "10 Curtain Ideas to Upgrade Sliding Doors for Privacy and Function" or "10 Drapery Ideas for Bay Windows."
+    *   **Why it ranks:** This is effective for targeting users who have a specific problem (e.g., wanting to upgrade sliding doors) or a specific architectural feature (bay windows) and are looking for solutions tailored to that. It's highly specific and actionable.

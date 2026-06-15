@@ -1,1 +1,137 @@
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 10.150664127s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}
+Interior design
+Interior decorating
+Home interior design
+Residential interior design
+Interior design styles
+Interior design ideas
+Interior design inspiration
+Interior designers
+Interior decorator
+Interior decorating services
+Interior renovation
+Interior remodeling
+Interior updates
+Interior solutions
+Interior aesthetics
+Interior spaces
+Interior spaces design
+Interior spaces decorating
+Interior planning
+Interior layout
+Interior space planning
+Interior space optimization
+Interior space utilization
+Interior space transformation
+Interior space enhancement
+Interior styling
+Interior trends
+Interior color palettes
+Interior color schemes
+Interior furniture
+Interior furniture selection
+Interior furniture arrangement
+Interior lighting
+Interior lighting design
+Interior lighting solutions
+Interior decor
+Interior decoration
+Interior accents
+Interior accessories
+Interior finishes
+Interior materials
+Interior textures
+Interior architecture
+Interior architecture design
+Interior architecture services
+Interior architecture trends
+Custom interior design
+Luxury interior design
+Modern interior design
+Contemporary interior design
+Minimalist interior design
+Scandinavian interior design
+Bohemian interior design
+Industrial interior design
+Farmhouse interior design
+Coastal interior design
+Mid-century modern interior design
+Transitional interior design
+Traditional interior design
+Eclectic interior design
+Rustic interior design
+Urban interior design
+Creative interior design
+Affordable interior design
+Professional interior design
+Interior design consultation
+Interior design services
+Interior design company
+Interior design firm
+Interior design studio
+Interior design expert
+Interior design professional
+Interior design consultant
+Interior design specialist
+Interior design solutions
+Interior design planning
+Interior design inspiration
+Interior design ideas
+Interior design trends
+Interior design styles
+Interior design tips
+Interior design advice
+Interior design magazine
+Interior design blog
+Interior design website
+Interior design portfolio
+Interior design portfolio examples
+Interior design portfolio showcase
+Interior design for small spaces
+Interior design for large spaces
+Interior design for living rooms
+Interior design for bedrooms
+Interior design for kitchens
+Interior design for bathrooms
+Interior design for dining rooms
+Interior design for home offices
+Interior design for hallways
+Interior design for entryways
+Interior design for children's rooms
+Interior design for nurseries
+Interior design for basements
+Interior design for attics
+Interior design for outdoor spaces
+Interior design for apartments
+Interior design for houses
+Interior design for vacation homes
+Interior design for rental properties
+Interior design for commercial spaces
+Office interior design
+Retail interior design
+Restaurant interior design
+Hotel interior design
+Hospitality interior design
+Healthcare interior design
+Educational interior design
+Interior design for specific rooms
+Interior design by room type
+Room interior design
+Living room interior design
+Bedroom interior design
+Kitchen interior design
+Bathroom interior design
+Dining room interior design
+Home office interior design
+Hallway interior design
+Entryway interior design
+Children's room interior design
+Nursery interior design
+Basement interior design
+Attic interior design
+Outdoor space interior design
+Apartment interior design
+House interior design
+Vacation home interior design
+Rental property interior design
+Commercial space interior design
+Modern ranch interior

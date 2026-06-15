@@ -1,1 +1,48 @@
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 9.960787121s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}
+Here are the templates and logical flow for effective Pinterest descriptions for 'Architecture' based on the provided data:
+
+**Most Effective Hook Styles:**
+
+1.  **Intrigue/Benefit-Driven Hook:**
+    *   **Template:** "Discover [Desired Outcome] with [Specific Feature/Style]."
+    *   **Examples:**
+        *   "Discover the secrets behind [expensive-looking Mediterranean homes] with [design elements]."
+        *   "Escape into [a serene home] with [natural materials and soft lighting]."
+        *   "Elevate your [home design] with [a specific architectural style]."
+    *   **Logical Flow:**
+        *   Start with a verb that promises an experience or solution.
+        *   State the aspirational outcome or benefit for the user.
+        *   Mention the key architectural style, feature, or material that delivers this.
+
+2.  **Curiosity/Question Hook:**
+    *   **Template:** "Are you looking for [inspiration/ideas] for [specific architectural need/style]?"
+    *   **Examples:**
+        *   "Are you looking for inspiration for your vision board?"
+        *   "Dreaming of a [Mediterranean villa] look?"
+        *   "Craving [vintage elegance with a modern spin]?"
+    *   **Logical Flow:**
+        *   Pose a direct question that addresses a common user search intent.
+        *   Specify the area of interest (e.g., inspiration, specific style).
+        *   This leads naturally into offering solutions or ideas.
+
+3.  **Direct Descriptor Hook:**
+    *   **Template:** "[Number] [Specific Architectural Element/Style] to [Inspire/See/Try]."
+    *   **Examples:**
+        *   "10 Mediterranean Style Homes with Exterior Updates"
+        *   "23 Unique Mediterranean Homes Exterior Designs to Inspire You"
+        *   "100 Victorian Homes You Need to See"
+    *   **Logical Flow:**
+        *   Start with a quantifiable number for a listicle format.
+        *   Clearly state the subject matter (e.g., style, feature).
+        *   Use strong verbs to indicate the purpose (inspire, see, try).
+
+---
+
+**Best CTA (Call to Action) Structure:**
+
+*   **Template:** "Save this pin for [specific use case 1], [specific use case 2], and [specific use case 3]." (or variations like "Pin it now for...", "Save these ideas now!")
+
+*   **Logical Flow:**
+    1.  **Direct Instruction:** Start with a clear action verb (Save, Pin, Discover, Learn more, Explore).
+    2.  **Benefit/Purpose:** State *why* the user should take that action. This often involves listing specific ways the content will be useful to them.
+    3.  **Specific Use Cases:** List 2-4 concrete examples of how the user might utilize the information (e.g., "design mood board," "dream home inspiration," "Renovation ideas," "kitchen remodel ideas," "exterior design inspiration").
+    4.  **(Optional) Secondary CTA:** A slightly softer CTA like "Learn more on our website" or "Visit our profile for more."
