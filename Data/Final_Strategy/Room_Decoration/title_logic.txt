@@ -1,1 +1,21 @@
-Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+Here are 5 effective title formula structures for "Room Decoration" on Pinterest, along with the reasoning for their ranking:
+
+1.  **[Benefit/Adjective] [Room Type] Decoration Ideas**
+    *   **Logic:** This structure directly addresses the user's need by promising a desirable outcome (benefit/adjective) and specifying the context (room type). It's highly searchable and promises inspiration.
+    *   **Why it ranks:** Users often search with specific room types in mind and are looking for inspirational or transformative ideas.
+
+2.  **[Number] [Adjective] [Room Type] Decor Ideas That Actually Work**
+    *   **Logic:** The number creates a sense of value and curation, while the adjective enhances appeal. "That Actually Work" adds a layer of practicality and credibility, suggesting tested and effective solutions.
+    *   **Why it ranks:** Numbers make content easily digestible, and the promise of practicality appeals to users who want actionable advice, not just pretty pictures.
+
+3.  **Easy [Room Type] Decoration Hacks for a [Benefit/Style] Look**
+    *   **Logic:** "Easy" appeals to users seeking quick and simple solutions, while "Hacks" suggests clever, non-obvious tips. The desired outcome ([benefit/style]) provides a clear vision of what the user can achieve.
+    *   **Why it ranks:** Pinterest users often look for accessible and actionable DIY or styling tips that don't require significant effort or cost.
+
+4.  **How to Decorate Your [Room Type] on a Budget: [Benefit/Theme] Inspiration**
+    *   **Logic:** Directly addresses a common constraint (budget) and offers a solution. "Inspiration" promises visual ideas, and the specific benefit or theme adds further relevance and appeal.
+    *   **Why it ranks:** Budget-friendly decor is a huge search query, and combining it with a specific room type and a desired outcome makes it highly targeted and useful.
+
+5.  **[Room Type] Decor Ideas: [Adjective] & [Adjective] Styles You'll Love**
+    *   **Logic:** Clearly states the subject ([room type] decor ideas) and then provides enticing descriptive adjectives that highlight variety and appeal, promising content that will resonate with the user's aesthetic preferences.
+    *   **Why it ranks:** This structure is direct, offers a visual promise through adjectives, and caters to users exploring different aesthetic directions for their rooms.
