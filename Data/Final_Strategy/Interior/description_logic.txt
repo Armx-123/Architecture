@@ -1,1 +1,21 @@
-Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+**Hook Styles:**
+
+1.  **Problem/Solution:**
+    *   [Problem your audience faces] + [How your pin offers a solution]
+    *   Example: "Tired of a cluttered entryway? ✨ Organize your space with these [number] genius entryway storage ideas!"
+
+2.  **Aspirational/Benefit-Driven:**
+    *   [Desired outcome/feeling] + [How your pin helps achieve it]
+    *   Example: "Dreaming of a cozy reading nook? ☕️ Create your perfect escape with these [number] inspiring reading nook designs."
+
+3.  **Curiosity/Intrigue:**
+    *   [Intriguing question or statement] + [Hint at what's inside]
+    *   Example: "You won't believe how [adjective] this small space transformation is! 🤯 See the before & after."
+
+**CTA (Call to Action) Structure:**
+
+*   **Direct Action Verb + What to Do + Where to Go/What to Expect**
+*   Example: "Click to see more!"
+*   Example: "Shop the look!"
+*   Example: "Get the full guide!"
+*   Example: "Save for later inspiration!"

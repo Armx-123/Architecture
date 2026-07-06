@@ -1,9 +1,1 @@
-1.  **[Adjective] + [Noun] + [Key Benefit/Descriptor]**: This structure ranks because it's concise, immediately descriptive, and highlights a key takeaway or aesthetic. The adjective sets a tone, the noun is the core subject, and the benefit/descriptor offers immediate value or intrigue.
-
-2.  **[Number] + [Noun] + [Topic]**: This formula excels due to its clear, quantifiable promise. Numbers create order and imply a curated list, making the content easily digestible and highly shareable. The topic clarifies the scope.
-
-3.  **[Noun] + [Concept/Style] + [Inspiration/Ideas]**: This structure works because it clearly identifies the subject and then positions it within a recognized style or conceptual framework, promising creative application and ideation. It appeals to users actively seeking inspiration for specific architectural directions.
-
-4.  **[Topic] + [Visual Descriptor/Aesthetic] + [Type of Content]**: This formula is effective because it immediately frames the subject with a strong visual cue and then specifies what kind of content the user will find, managing expectations and highlighting aesthetic appeal.
-
-5.  **[Adjective] + [Noun] + [Problem Solved/Goal Achieved]**: This formula ranks because it combines descriptive power with a clear solution or aspirational outcome. It speaks directly to user needs and desires, making the content feel highly relevant and valuable.
+Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
