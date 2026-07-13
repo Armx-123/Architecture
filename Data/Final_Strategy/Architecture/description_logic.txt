@@ -1,1 +1,18 @@
-Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+## Hook Styles:
+
+1.  **Question-Based Hook:**
+    *   Template: "Looking for [aspirational outcome]? Discover stunning [architecture type/style] ideas!"
+    *   Logical Flow: Pique curiosity by posing a relatable problem or desire, then immediately offer a solution or inspiration.
+
+2.  **Benefit-Driven Hook:**
+    *   Template: "Transform your space with breathtaking [architectural feature/concept] inspiration."
+    *   Logical Flow: Highlight the immediate value or positive impact the user will gain by engaging with the pin.
+
+3.  **Intrigue/Curiosity Hook:**
+    *   Template: "Unlock the secrets to [unique architectural element/design principle]."
+    *   Logical Flow: Create a sense of mystery or exclusivity, hinting at hidden knowledge or exclusive insights.
+
+## CTA (Call to Action) Structure:
+
+*   **Template:** "Tap to explore more [relevant keyword/inspiration]!"
+*   **Logical Flow:** Direct, action-oriented, and reinforces the core benefit/content of the pin. It clearly tells the user what to do and what they will get by doing it.
