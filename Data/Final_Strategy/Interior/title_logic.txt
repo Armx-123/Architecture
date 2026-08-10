@@ -1,16 +1,1 @@
-Here are 5 "Formula Structures" for successful Pinterest titles for "Interior," along with the logic behind their ranking:
-
-1.  **[Adjective/Descriptor] + [Noun/Keyword] + [Benefit/Result]**
-    *   **Logic:** This structure is highly effective because it immediately grabs attention with an appealing adjective, clearly states the topic with a core keyword, and then promises a desirable outcome or solution for the user. It appeals to both aspiration and practical problem-solving.
-
-2.  **[Number] + [Adjective/Descriptor] + [Noun/Keyword] + [For/In] + [Specific Niche/Room]**
-    *   **Logic:** The inclusion of a number (especially a list format) creates an expectation of digestible, actionable content. The descriptor adds appeal, the keyword identifies the subject, and specifying the niche or room makes it hyper-relevant and targeted to a user's search intent.
-
-3.  **[How To] + [Verb] + [Noun/Keyword] + [For/In] + [Specific Niche/Room]**
-    *   **Logic:** This is a classic search-driven formula. Users often search for "how-to" solutions. Combining this with a clear verb and the relevant keyword/niche directly answers a user's query and positions the pin as a helpful tutorial or guide.
-
-4.  **[Adjective/Descriptor] + [Noun/Keyword] + [Adjective/Descriptor] + [Niche/Room]**
-    *   **Logic:** This structure uses descriptive language to evoke a feeling or style. It's great for aspirational searches where users are looking for inspiration or a specific aesthetic. The repetition of descriptors reinforces the mood or quality of the interior design.
-
-5.  **[Key Noun/Keyword] + [Adjective/Descriptor] + [Benefit/Result]**
-    *   **Logic:** This formula prioritizes the core subject upfront, immediately confirming relevance for users scanning their feed. The subsequent descriptor adds appeal, and the benefit/result provides a compelling reason to click, promising value or a solution.
+Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
