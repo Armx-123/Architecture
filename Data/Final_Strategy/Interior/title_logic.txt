@@ -1,1 +1,16 @@
-Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+Here are 5 effective Pinterest title formula structures for 'Interior' based on successful examples, along with the reasoning for their ranking:
+
+1.  **[Adjective] [Noun] [Benefit/Outcome]**
+    *   **Logic:** This formula is highly effective because it immediately grabs attention with a descriptive adjective, clearly states the subject with the noun, and then promises a desirable result or benefit. This appeals to users who are searching for solutions or inspiration to achieve a specific look or feeling in their home. The combination of descriptive and aspirational elements makes it highly clickable.
+
+2.  **[Number] [Adjective] [Noun] Ideas [for Specific Space]**
+    *   **Logic:** Numbers create a sense of curated content and easy digestion. The adjective adds appeal, and "Ideas" signals a collection of inspiration. Specifying a "Specific Space" (e.g., "Small Bedroom," "Living Room," "Kitchen") targets users with a clear need or interest, making the pin highly relevant and therefore more likely to be saved or clicked.
+
+3.  **How To [Verb] [Noun] [Adjective]**
+    *   **Logic:** This structure taps into the "how-to" search intent. Users often come to Pinterest seeking practical advice and actionable steps. By promising to teach them how to achieve something specific with a desirable adjective, it directly addresses their problem-solving needs and positions the content as a valuable resource.
+
+4.  **[Noun] Aesthetic [for Specific Style/Mood]**
+    *   **Logic:** "Aesthetic" is a powerful keyword that resonates with users seeking a specific visual vibe or lifestyle. This formula is successful because it directly appeals to a user's desire to create a particular atmosphere or replicate a trending style. Specifying the "Style/Mood" further refines the targeting and makes the content feel bespoke.
+
+5.  **[Adjective] [Noun] Inspiration [for Specific Room/Element]**
+    *   **Logic:** "Inspiration" is a core driver for Pinterest users. This formula combines descriptive language with the promise of visual ideas. Focusing on a "Specific Room/Element" ensures the content is highly relevant to what the user is actively looking for, whether it's "Bohemian Living Room Inspiration" or "Modern Bathroom Fixture Inspiration."

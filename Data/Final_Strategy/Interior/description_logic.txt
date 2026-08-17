@@ -1,1 +1,30 @@
-Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+**Effective Hook Styles:**
+
+1.  **Problem/Solution:**
+    *   Template: "Tired of [Common Interior Design Problem]? ✨ Discover [Your Solution/Benefit] for a [Desired Outcome] home."
+    *   Logical Flow:
+        *   Acknowledge a pain point or struggle the user experiences.
+        *   Introduce your offering as the answer.
+        *   Highlight the positive result the user will achieve.
+
+2.  **Aspirational/Inspirational:**
+    *   Template: "Dreaming of a [Adjective] and [Adjective] space? 💭 Transform your home with [Your Niche/Style] interiors that inspire."
+    *   Logical Flow:
+        *   Evoke a desired feeling or aesthetic.
+        *   Connect this aspiration to your interior design expertise/offering.
+        *   Emphasize the inspirational quality of your work.
+
+3.  **Benefit-Driven Question:**
+    *   Template: "Want to [Achieve Specific Benefit] your living room? 💡 Unlock [Specific Outcome] with these [Number] [Type of Interior Design Element/Idea]."
+    *   Logical Flow:
+        *   Pose a question that directly addresses a user's goal.
+        *   Promise a concrete benefit as the answer.
+        *   Quantify or specify what is being offered to deliver that benefit.
+
+**Best CTA (Call to Action) Structure:**
+
+*   **Template:** "Tap to [Action Verb] more! ➡️ [Link/Destination]"
+*   **Logical Flow:**
+    *   **Action Verb:** Clear and direct instruction (e.g., "Shop," "Save," "Learn," "Explore," "Discover").
+    *   **Visual Cue/Urgency:** An emoji or short phrase to encourage immediate action (e.g., "➡️," "✨," "👇").
+    *   **Destination:** Clearly indicates where the user will go or what they will get (e.g., "the full guide," "these curated finds," "our latest collection").
