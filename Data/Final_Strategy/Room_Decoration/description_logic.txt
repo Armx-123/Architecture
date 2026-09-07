@@ -1,37 +1,21 @@
-Here are the templates for the most effective hook styles and CTA structures based on the provided Pinterest descriptions for 'Room_Decoration':
+**Hook Styles:**
 
-### **Hook Styles (Top 3)**
+1.  **Problem/Solution:**
+    *   Template: "Struggling with [common room decoration problem]? Try this [room decoration solution]!"
+    *   Logical Flow: Identifies a relatable pain point and immediately offers a tangible, aspirational solution.
 
-**1. Question-Based:**
+2.  **Benefit-Driven Aspiration:**
+    *   Template: "Transform your [room type] into a [desired aesthetic/feeling] with these [number] stunning [room decoration idea] ideas."
+    *   Logical Flow: Paints a vivid picture of the desired outcome and promises actionable inspiration to achieve it.
 
-*   **Template:** "Struggling with [common room decoration problem/desire]? 🤔"
+3.  **Curiosity/Intrigue:**
+    *   Template: "You won't believe what a difference [specific room decoration element] can make in your [room type]! ✨"
+    *   Logical Flow: Piques interest by hinting at a surprising or impactful transformation, encouraging users to click to discover the "secret."
+
+**CTA Structure:**
+
+*   **Template:** "Tap to shop the look!" OR "Save this for later!" OR "Find more inspo [link/on our profile]!"
 *   **Logical Flow:**
-    1.  Identify a relatable pain point or aspiration of the target audience.
-    2.  Pose it as a question to immediately engage and prompt introspection.
-
-**2. Benefit-Driven/Intrigue:**
-
-*   **Template:** "Transform your [specific room type] into a [desired outcome] with these [number] [adjective] ideas."
-*   **Logical Flow:**
-    1.  Clearly state the transformation or improvement the user will achieve.
-    2.  Specify the scope (e.g., "specific room type").
-    3.  Quantify the value (e.g., "number of ideas") and use evocative adjectives.
-
-**3. "How-To" Promise:**
-
-*   **Template:** "How to achieve [aspirational room style] on a budget." / "How to make your [small space] feel bigger."
-*   **Logical Flow:**
-    1.  Directly address a common "how-to" search query.
-    2.  Promise a solution to a specific problem or a way to achieve a desired aesthetic.
-
----
-
-### **CTA (Call to Action) Structure**
-
-**Best CTA Structure:**
-
-*   **Template:** "Tap to see more! ✨" / "Save this for inspo! 📌" / "Click to get the look! ➡️"
-*   **Logical Flow:**
-    1.  **Action Verb:** Clearly tell the user what to do (Tap, Save, Click).
-    2.  **Desired Outcome/Value:** Briefly state *why* they should do it (see more, for inspo, get the look).
-    3.  **Emoji:** Add a relevant and visually appealing emoji to increase clickability and convey tone.
+    1.  **Direct Action Prompt:** A clear, concise instruction for the user to perform an action.
+    2.  **Value Proposition (Implicit or Explicit):** What the user gains by taking the action (e.g., achieving the look, keeping the idea for future use, finding more inspiration).
+    3.  **Clear Path:** Directs the user where to go or what to do next (e.g., "tap to shop," "save," "find more inspo").

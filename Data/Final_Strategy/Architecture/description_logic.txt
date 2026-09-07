@@ -1,22 +1,19 @@
-**Hook Styles:**
+## Hook Styles:
 
-1.  **Question-Based Hook:**
-    *   Template: "Are you looking for [desired outcome/feeling] in your home? ✨"
-    *   Logical Flow: Presents a common desire or problem, immediately engaging the user by addressing their potential needs.
+1.  **Benefit-Driven Question:**
+    *   **Template:** "Dreaming of [Desired Outcome]? ✨ Discover how [Specific Architectural Element/Style] can transform your [Space/Vision]."
+    *   **Logical Flow:** Piques curiosity by directly addressing a user's aspiration, then offers a solution by introducing a relevant architectural concept.
 
-2.  **Benefit-Driven Hook:**
-    *   Template: "Transform your space with [key architectural feature/style]! 🤩"
-    *   Logical Flow: Highlights a direct positive outcome or desirable aesthetic, making the benefit tangible and appealing.
+2.  **Intriguing Statement/Bold Claim:**
+    *   **Template:** "[Provocative Statement about Architecture]. Uncover the secrets behind [Architectural Style/Concept] that are redefining [Industry/Aesthetic]."
+    *   **Logical Flow:** Grabs attention with a strong, attention-grabbing assertion, then promises to reveal exclusive information or insights.
 
-3.  **Curiosity-Inducing Hook:**
-    *   Template: "Discover the secrets to [impressive architectural quality]! 💡"
-    *   Logical Flow: Piques interest by suggesting exclusive knowledge or a unique perspective, encouraging exploration.
+3.  **Problem/Solution Framing:**
+    *   **Template:** "Struggling with [Common Design Challenge]? 🤔 Explore [Architectural Solution] for a [Positive Result] and elevate your [Project/Space]."
+    *   **Logical Flow:** Identifies a relatable pain point, then positions the architectural content as the answer to that problem, highlighting the positive outcome.
 
-**CTA Structure:**
+## CTA Structure:
 
-*   **Template:** "Tap to see more stunning [architecture type] ideas! ➡️ [Link/Pin]"
-*   **Logical Flow:**
-    *   **Action Verb:** "Tap" - Direct and clear instruction.
-    *   **Benefit/Value Proposition:** "to see more stunning [architecture type] ideas!" - Reinforces what the user will gain.
-    *   **Visual Cue:** "➡️" - Guides the eye towards the next step.
-    *   **Destination:** "[Link/Pin]" - Clearly indicates where the user will be taken.
+*   **Direct & Action-Oriented with Value Proposition:**
+    *   **Template:** "Tap to explore more stunning [Architectural Style] designs & get inspired for your next project! ➡️ [Link/Save]"
+    *   **Logical Flow:** Clearly instructs the user on what to do ("Tap to explore"), reinforces the value they'll receive ("stunning designs & get inspired"), and specifies the purpose ("for your next project").
